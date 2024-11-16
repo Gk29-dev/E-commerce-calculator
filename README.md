@@ -1,3 +1,3 @@
 # E-commerce Profit Calculator
 
-[Live Link](https://github.com/Gk29-dev/E-commerce-calculator)
+[Live Link](https://e-commerce-profit.netlify.app/)
